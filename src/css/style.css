@@ -1,0 +1,36 @@
+body{
+    background-color:var(--background-color);
+    font-family: 'Manrope', sans-serif;
+}
+main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 350px;
+    height: 250px;
+    background-color: beige;
+}
+
+.container h3{
+    font-weight: 800;
+    margin-bottom: 50px;
+   
+    justify-content: space-around;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+
+.mensagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: azure;
+}
