@@ -21,6 +21,11 @@ main {
   background-color: var(--advice-card-color);
 }
 
+.container:hover{
+  rotate: 50px;
+  box-shadow: 0 5px 15px rgba(255, 255, 255, 0.815);
+}
+
 .container h3 {
   text-transform: uppercase;
   font-size: 15px;

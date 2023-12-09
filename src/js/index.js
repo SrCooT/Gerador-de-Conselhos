@@ -2,5 +2,8 @@ const btn = document.getElementById('botao');
 
 
 btn.addEventListener("click", ()=>{
-    alert('voce clicou')
+    return conselho((url = 'https://api.adviceslip.com/advice') => {
+        
+    })
 })
+
