@@ -34,14 +34,14 @@ main {
   color: var(--advice-dice-color);
 }
 
-.mensagem {
+.frase {
   padding: 23px;
   font-size: 23px;
   text-align: center;
   border-bottom: solid 1px white;
 }
 
-.mensagem p {
+.mensagem .frase {
   color: var(--text-color);
 }
 
