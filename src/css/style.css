@@ -52,10 +52,11 @@ main {
  border: none;
  background-color: var(--advice-dice-color);
  transform: translateY(50%);
+ trans
 }
 
 .botao .fa-solid{
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .botao:hover{
